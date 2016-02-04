@@ -1,0 +1,74 @@
+.cancha{
+	width: 805px;
+	height: 550px;
+	opacity: 0.9;
+	background-image: url(img/pastito1.jpg);
+}
+
+.line{
+
+	position: absolute;
+	border: 7px solid white;
+	width: 740px;
+	height: 472px;
+	margin: 20px;
+}
+
+.porter1{
+	position: absolute;
+	top: 25%;
+	border: 5px solid white;
+	width: 130px;
+	height: 250px;
+	left: -3px;
+
+}
+
+.porter2{
+	position: absolute;
+	top: 25%;
+	border :5px solid white;
+	width: 130px;
+	height: 250px;
+	right: -0.3%;
+
+}
+
+.centrado{
+	position: absolute;
+	top: 35%;
+	border: 5px solid white;
+	/*background-color: white;*/
+	border-radius: 100px;
+	width: 130px;
+	height: 150px;
+	left: 42%;
+
+}
+
+.bal1{
+	position: absolute;
+	top: 120px;
+	width: 25px;
+	height: 25px;
+	left: 122px;
+
+}
+.bal2{
+	position: absolute;
+	top: 130px;
+	width: 25px;
+	height: 25px;
+	left: 460px;
+
+}
+.bal3{
+	position: absolute;
+	top: 350px;
+	background-color: white;
+	border-radius: 200px;
+	width: 25px;
+	height: 25px;
+	left: 590px;
+
+}
